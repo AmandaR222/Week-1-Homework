@@ -1,2 +1,2 @@
-# HOMEWORK
-PUT ALL HOMEWORK IN HERE
+# Week-1-Homework
+Put all Week-1-Homeowrk in here
